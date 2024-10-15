@@ -1,0 +1,225 @@
+@font-face {
+    font-family: "fonts";
+    src: url("fonts/Inter-VariableFont_opsz\,wght.ttf");
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-image:url("Rectangle\ 1.png") ;
+    width: 100%;
+    height: 775px;
+    font-family: "fonts";
+}
+
+.header {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    height: 300px;
+}
+
+.redbull {
+    padding: 25px;
+}
+
+.box1 {
+    width: 418px;
+    height: 47px;
+    border: 1px solid #FFFFFF66;
+    background-color: #00000069;
+    border-radius: 20px;
+    margin: 24px;
+    margin-left: 200px;
+}
+
+.ptag1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    color: #FFFFFF;
+    margin-top: 13px; 
+}
+
+.redbullcan {
+    margin-left: 110px;
+    margin-top: 60px;
+}
+
+.youtube {
+   margin-top: 34px; 
+   margin-left: 670px;
+}
+
+.h4 {
+    margin: 0;
+    margin-left: 200px;
+    border-bottom: 1px solid #000000;
+    width: 109px;
+}
+
+.ptag2 {
+    margin: 10px;
+    margin-left: 200px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+}
+
+.btn {
+    width: 215px;
+    height: 40px;
+    background-color: #DB0A40;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26.63px;
+    color: white;
+}
+
+.section {
+    display: flex;
+}
+
+.card {
+    width: 140px;
+    height: 200px;
+    border-top: 3px solid;
+    border-color: #000000;
+    margin-top: 40px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.73px;
+    margin-left: 200px;  
+}
+.card1 {
+    width: 140px;
+    height: 200px;
+    border-top: 3px solid;
+    border-color: #000000;
+    margin-top: 40px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.73px;
+    margin-left: 15px;
+}
+
+.p11 {
+    color: #424242;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.73px;
+}
+
+.satauri2 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    
+}
+
+.container2 {
+    background-color: rgb(255, 255, 255);
+    display: flex;  
+}
+
+
+
+.img1 {
+    margin-left: 30px;
+}
+
+.container3 {
+    display: flex;
+}
+
+.card3 {
+    margin-left: 40px;
+}
+
+.img3 {
+    margin-left: 30px;
+}
+
+.btn2 {
+    width: 251.17px;
+    height: 53px;
+    background-color: #212360;
+    margin-left: 540px;
+    border: 0;
+    outline: none;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.63px;
+    border-radius: 5px;
+}
+
+.box2 {
+    width: 100%;
+    height: 520px;
+    background-color: #00162B;
+    font-family: fonts;
+}
+
+.redbull2 {
+    padding: 25px;
+}
+
+.p2 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: white;
+    margin-left: 60px;
+}
+
+.p3 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: white;
+    margin: 4px;
+    margin-left:60px ; 
+}
+
+.img4 {
+    margin-left: 60px;
+}
+
+.flex {
+    display: flex;
+}
+
+.p4 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: white;
+    margin-left: 250px;
+}
+
+.flex0 {
+    display: flex;
+}
+.p5 {
+    margin-top: 50px;
+    margin-left: 20cm;
+    color: #A6A6A6;
+}
+
